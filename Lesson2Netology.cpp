@@ -3,9 +3,10 @@
 int main()
 {
 	int x;
-	std::cout << "Ââåäèòå ÷èñëî: " << std::endl;
+	std::cout << "Ğ’Ğ²ĞµĞ´Ğ¸Ñ‚Ğµ Ñ‡Ğ¸ÑĞ»Ğ¾: " << std::endl;
 	std::cin >> x;
-	std::cout << "Âû ââåëè: " << std::endl;
+	std::cout << "Ğ’Ñ‹ Ğ²Ğ²ĞµĞ»Ğ¸: " << std::endl;
 	std::cout << x << std::endl;
+
 
 }
