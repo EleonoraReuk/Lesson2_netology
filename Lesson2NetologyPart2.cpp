@@ -3,8 +3,9 @@
 int main()
 {
 	std::string x;
-	std::cout << "Ââåäèòå ñëîâî:" << std::endl;
+	std::cout << "Ğ’Ğ²ĞµĞ´Ğ¸Ñ‚Ğµ ÑĞ»Ğ¾Ğ²Ğ¾:" << std::endl;
 	std::cin >> x;
-	std::cout << "Âû ââåëè:" << std::endl;
+	std::cout << "Ğ’Ñ‹ Ğ²Ğ²ĞµĞ»Ğ¸:" << std::endl;
 	std::cout << x;
+
 }
